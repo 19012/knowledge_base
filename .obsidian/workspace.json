@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4978af1fa73057d6",
+        "id": "df8ab717a7a1fd50",
         "type": "tabs",
         "children": [
           {
-            "id": "d68419ff685d7cd9",
+            "id": "501d62bcfdbc1841",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goals/2024/May.md",
+                "file": "goals/backlog.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Goals/2024/May.md",
+                "file": "goals/backlog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Goals/2024/May.md",
+                "file": "goals/backlog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Goals/2024/May.md"
+                "file": "goals/backlog.md"
               }
             }
           }
@@ -146,29 +146,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8022c7755eacd597",
+  "active": "501d62bcfdbc1841",
   "lastOpenFiles": [
-    "Programming/Docker",
-    "Programming/Java",
-    "Programming",
-    "Templates/Default Template.md",
-    "Courses/2024",
-    "Courses",
-    "Books/2024",
-    "Books",
-    "Templates/Planner Template.md",
-    "Goals/2024/May.md",
-    "Goals/Backlog.md",
-    "Goals/2024",
+    "pet_projects/~post_bin.md",
+    "goals/backlog.md",
+    "goals/2024/may.md",
+    "templates/reference_template.md",
+    "templates/planner_template.md",
+    "templates/default_template.md",
+    "templates/daily_template.md",
+    "templates/course_template.md",
+    "templates/book_template.md",
+    "pet_projects",
+    "courses/2024/~docker_for_java_developers.md",
+    "books/2024/~Head First patterns.md",
+    "books/2024/~Чистая архитектура.md",
+    "books/2024/~Кабанчик.md",
+    "books/2024/~Чистый код.md",
+    "books/2024/~Java эффективное программирование.md",
+    "programming/docker",
+    "programming/java",
+    "programming",
+    "courses/2024",
+    "courses",
+    "books/2024",
+    "books",
+    "goals/2024",
     "Untitled 1",
     "Goals/Backlog/Goals list.md",
     "Goals/Backlog/Year goals.md",
-    "Templates/Reference Template.md",
-    "Goals/Complited/2024.md",
-    "Goals/Backlog",
-    "Templates/Daily Template.md",
-    "Goals/Complited",
-    "Templates/Course Template.md",
-    "Templates/Book Template.md"
+    "goals/completed/2024.md"
   ]
 }

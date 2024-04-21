@@ -1,7 +1,8 @@
 ---
 create: "{{date}}"
 tags: 
-starte: 
+link: 
+start: 
 complite: 
 duration: 
 price: 

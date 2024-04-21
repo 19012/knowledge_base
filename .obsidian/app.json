@@ -1,9 +1,10 @@
 {
-  "livePreview": false,
+  "livePreview": true,
   "showLineNumber": true,
   "vimMode": true,
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "attachments"
+  "attachmentFolderPath": "attachments",
+  "defaultViewMode": "source"
 }
