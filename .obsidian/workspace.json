@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "goals/backlog.md",
+                "file": "programming/java/java_core.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "goals/backlog.md",
+                "file": "programming/java/java_core.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "goals/backlog.md",
+                "file": "programming/java/java_core.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "goals/backlog.md"
+                "file": "programming/java/java_core.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "501d62bcfdbc1841",
   "lastOpenFiles": [
-    "pet_projects/~post_bin.md",
     "goals/backlog.md",
+    "programming/java/java_core.md",
+    "pet_projects/~post_bin.md",
     "goals/2024/may.md",
     "templates/reference_template.md",
     "templates/planner_template.md",
