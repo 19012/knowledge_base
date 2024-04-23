@@ -4,18 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "df8ab717a7a1fd50",
+        "id": "e4b825fce330cfec",
         "type": "tabs",
         "children": [
           {
-            "id": "501d62bcfdbc1841",
+            "id": "6bbf7f262980befe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "programming/java/java_core.md",
                 "mode": "source",
-                "source": false
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -143,14 +144,20 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "501d62bcfdbc1841",
+  "active": "6bbf7f262980befe",
   "lastOpenFiles": [
-    "goals/backlog.md",
+    "programming/java/При большом количестве параметров конструктора подумайте о проектном шаблоне *Строитель*.md",
     "programming/java/java_core.md",
-    "pet_projects/~post_bin.md",
+    "books/2024/Java эффективное программирование.md",
+    "programming/java/Рассмотрите применение статических фабричных методов вместо конструкторов.md",
+    "pet_projects/post_bin.md",
+    "courses/2024/~docker_for_java_developers.md",
+    "goals/completed/2024.md",
+    "goals/backlog.md",
     "goals/2024/may.md",
     "templates/reference_template.md",
     "templates/planner_template.md",
@@ -159,12 +166,10 @@
     "templates/course_template.md",
     "templates/book_template.md",
     "pet_projects",
-    "courses/2024/~docker_for_java_developers.md",
     "books/2024/~Head First patterns.md",
     "books/2024/~Чистая архитектура.md",
     "books/2024/~Кабанчик.md",
     "books/2024/~Чистый код.md",
-    "books/2024/~Java эффективное программирование.md",
     "programming/docker",
     "programming/java",
     "programming",
@@ -175,7 +180,6 @@
     "goals/2024",
     "Untitled 1",
     "Goals/Backlog/Goals list.md",
-    "Goals/Backlog/Year goals.md",
-    "goals/completed/2024.md"
+    "Goals/Backlog/Year goals.md"
   ]
 }
