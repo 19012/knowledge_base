@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/Tmux.md",
+                "file": "courses/2024/docker_for_java_developers.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/Tmux.md",
+                "file": "courses/2024/docker_for_java_developers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/Tmux.md",
+                "file": "courses/2024/docker_for_java_developers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/Tmux.md"
+                "file": "courses/2024/docker_for_java_developers.md"
               }
             }
           }
@@ -150,9 +150,14 @@
   },
   "active": "8a3490e5bf477606",
   "lastOpenFiles": [
-    "programming/tmux frequent commands.md",
-    "programming/tmux-config-backup.md",
+    "programming/docker/docker_frequent_commands.md",
+    "programming/docker/docker.md",
+    "goals/2024/may.md",
+    "goals/backlog.md",
+    "goals/completed/2024.md",
+    "programming/tmux_frequent_commands.md",
     "programming/Tmux.md",
+    "programming/tmux-config-backup.md",
     "programming/algorithms/Untitled.md",
     "templates/default_template.md",
     "templates/daily_template.md",
@@ -160,17 +165,13 @@
     "templates/book_template.md",
     "programming/algorithms/Algorithms.md",
     "tools",
-    "goals/backlog.md",
-    "goals/2024/may.md",
     "programming/algorithms",
-    "programming/docker/docker.md",
     "programming/java/java_core.md",
     "courses/2024/docker_for_java_developers.md",
     "programming/java/При большом количестве параметров конструктора подумайте о проектном шаблоне *Строитель*.md",
     "books/2024/Java эффективное программирование.md",
     "programming/java/Рассмотрите применение статических фабричных методов вместо конструкторов.md",
     "pet_projects/post_bin.md",
-    "goals/completed/2024.md",
     "templates/reference_template.md",
     "templates/planner_template.md",
     "pet_projects",
@@ -184,7 +185,6 @@
     "courses/2024",
     "courses",
     "books/2024",
-    "books",
-    "Goals/Backlog/Goals list.md"
+    "books"
   ]
 }

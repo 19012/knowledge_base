@@ -5,7 +5,8 @@ create: 2024-04-28
 - tmux new -s <session-name> - create new session with specific name
 - tmux a - attach to the session
 - tmux ls - sessions list
-### inside tmux
+
+### within tmux
 #### pane
 - <prefix> hjkl - resize panes
 - <prefix> m - maximise/minimize pane
@@ -18,6 +19,7 @@ create: 2024-04-28
 - <prefix> : - command line
 #### session
 - <prefix> s - session list
+- <prefix> $ - rename session
 #### window (set of panes)
 - <prefix> w - list of windows
 - <prefix> c - create new window

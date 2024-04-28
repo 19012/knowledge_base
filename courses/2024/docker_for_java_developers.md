@@ -12,3 +12,4 @@ price:
 rating:
 ---
 ### Resume
+https://youtu.be/VzcZxT49AUA?list=PLI8XiGv06UlyiUwGXjiiU_zMbzzfmEU_F&t=4092
