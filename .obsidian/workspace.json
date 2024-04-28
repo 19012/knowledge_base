@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e4b825fce330cfec",
+        "id": "0f22d5fa1530f8ee",
         "type": "tabs",
         "children": [
           {
-            "id": "6bbf7f262980befe",
+            "id": "8a3490e5bf477606",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/java/java_core.md",
+                "file": "programming/Tmux.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/java/java_core.md",
+                "file": "programming/Tmux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/java/java_core.md",
+                "file": "programming/Tmux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/java/java_core.md"
+                "file": "programming/Tmux.md"
               }
             }
           }
@@ -148,23 +148,31 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6bbf7f262980befe",
+  "active": "8a3490e5bf477606",
   "lastOpenFiles": [
-    "programming/java/При большом количестве параметров конструктора подумайте о проектном шаблоне *Строитель*.md",
-    "programming/java/java_core.md",
-    "books/2024/Java эффективное программирование.md",
-    "programming/java/Рассмотрите применение статических фабричных методов вместо конструкторов.md",
-    "pet_projects/post_bin.md",
-    "courses/2024/~docker_for_java_developers.md",
-    "goals/completed/2024.md",
-    "goals/backlog.md",
-    "goals/2024/may.md",
-    "templates/reference_template.md",
-    "templates/planner_template.md",
+    "programming/tmux frequent commands.md",
+    "programming/tmux-config-backup.md",
+    "programming/Tmux.md",
+    "programming/algorithms/Untitled.md",
     "templates/default_template.md",
     "templates/daily_template.md",
     "templates/course_template.md",
     "templates/book_template.md",
+    "programming/algorithms/Algorithms.md",
+    "tools",
+    "goals/backlog.md",
+    "goals/2024/may.md",
+    "programming/algorithms",
+    "programming/docker/docker.md",
+    "programming/java/java_core.md",
+    "courses/2024/docker_for_java_developers.md",
+    "programming/java/При большом количестве параметров конструктора подумайте о проектном шаблоне *Строитель*.md",
+    "books/2024/Java эффективное программирование.md",
+    "programming/java/Рассмотрите применение статических фабричных методов вместо конструкторов.md",
+    "pet_projects/post_bin.md",
+    "goals/completed/2024.md",
+    "templates/reference_template.md",
+    "templates/planner_template.md",
     "pet_projects",
     "books/2024/~Head First patterns.md",
     "books/2024/~Чистая архитектура.md",
@@ -177,9 +185,6 @@
     "courses",
     "books/2024",
     "books",
-    "goals/2024",
-    "Untitled 1",
-    "Goals/Backlog/Goals list.md",
-    "Goals/Backlog/Year goals.md"
+    "Goals/Backlog/Goals list.md"
   ]
 }
