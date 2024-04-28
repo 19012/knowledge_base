@@ -134,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,6 +150,7 @@
   "active": "8a3490e5bf477606",
   "lastOpenFiles": [
     "programming/docker/docker_frequent_commands.md",
+    "courses/2024/docker_for_java_developers.md",
     "programming/docker/docker.md",
     "goals/2024/may.md",
     "goals/backlog.md",
@@ -167,7 +167,6 @@
     "tools",
     "programming/algorithms",
     "programming/java/java_core.md",
-    "courses/2024/docker_for_java_developers.md",
     "programming/java/При большом количестве параметров конструктора подумайте о проектном шаблоне *Строитель*.md",
     "books/2024/Java эффективное программирование.md",
     "programming/java/Рассмотрите применение статических фабричных методов вместо конструкторов.md",
