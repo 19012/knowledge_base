@@ -1,0 +1,25 @@
+### Создание сертификата
+- openssl req -x509 -sha256 -days 3563 -newkey rsa:2048 -keyout root_ca.key -out root_ca.crt
+		- `req` - запрос подписи сертификата или создание сертификата
+		- `-newkey rsa:2048` - создать новый приватный ключ, алгоритм rsa, длинна ключа 2048
+		- `-keyout root_ca.key` - сохранить ключ в фаил root_ca.key
+		- `-out root_ca.crt` - сохранить сертификат в фаил root_ca.crt
+	- common name (FQDN) - описывает объект, которому выдается сертификат
+- openssl genrsa -out localhost.key 2048 - создание приватного ключа
+	- `out localhost.key` - созранить ключ в фаил
+	- `2048` - размер ключа
+- openssl req -key localhost.key -new -out localhost.csr - создание запроса на подпись
+	- 
+-  openssl x509 -req -CA root_ca.crt -CAKey root_ca.key -in localhost.csr -out localhost.crt -days 365 -CAcreateserail -extfile localhost.ext - подписать
+	- `-CA root_ca.crt` - сертификат, которым будет подписан ключ
+	- `-CAkey root_ca.key` - приватный ключ сертифицирующего центра
+	- `-in localhost.csr` - какой сертификат подписывать
+	- `-out localhost.crt` - файл куда сохранить подписанный сертификат
+	- `-CAcreateserial` - создать серийный номер
+	- `-extfile` - использовать фаил с расширениями
+### Создание KeyStore
+- openssl pkcs12 -export -in localhost.crt -inkey localhost.key -name localhost -out localhost.p12
+	- `pkcs12` - формат хранилища
+	- `-in localhost.crt` - добавить сертификат localhost.crt
+	- `-inkey localhost.key` - добавить ключ localhost.key
+	- `-out localhost.p12` - фаил куда сохранить хранилище

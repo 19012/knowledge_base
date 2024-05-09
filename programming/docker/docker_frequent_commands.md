@@ -4,10 +4,11 @@
 	- '-t' - output to terminal
 - docker rmi <image-id> - remove image (note: no containers for this image should be running)
 - docker rmi $(docker images -q) - remove all images
-- docker tag <currentimage>:<tag> <repository-name>/<image-name>:<tag> - create tag
+- docker tag <image>:<tag> <repository-name>/<image-name>:<tag> - create tag
 - docker push <repository-name>/<image-name>:<tag>
 - docker commit <container-id> <repository-name>/<image-name>:<tag>
 - docker pull <repository-name>/<image-name>:<tag>
+
 #### container
 - docker ps - list containers
 	- '-a' - all
@@ -22,6 +23,7 @@
 - docker rm <container-id/name> - remove existing container
 	- '-f' - force
 - docker rm $(docker ps -a -q) - remove all containers
+
 #### general
 - docker inspect <image-id> | <container-id> - inspect image or container
 - docker exec -it <container-id> /bin/bash  - execute bash in container
